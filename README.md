@@ -1,2 +1,2 @@
 # OCR-java
-optical character recognitio in java
+optical character recognition in java
